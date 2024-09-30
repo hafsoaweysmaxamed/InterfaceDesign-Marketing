@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color:#300370 ;
+    text-align: center;
+    align-items: center;
+}
+.hero ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    margin-right: 35px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.hero i{
+    margin-right: 35px;
+    font-size: 35px;
+}
+.hero img{
+    margin-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #300370;
+    margin-top: 20px;
+    color: white;
+    padding-bottom: 60px;
+}
+.header-1{
+    width: 500px;
+    text-align: center;
+    margin-top: 50px;
+}
+.header-1 button{
+    background-color: #FFA30C;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    height: 25px;
+    width: 150px;
+    margin-top: 20px;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    gap: 30;
+
+}
+.text1{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.text2{
+    margin-top: 50px;
+
+}
+.text2 h1{
+    color: #300370;
+}
+.text1 h1{
+    color: #300370;
+    font-weight: bold;
+    font-size: 40px;
+}
+#text{
+    margin-bottom: 15px;
+}
+.body-parent{
+    background-color: #4D008B;
+}
+.baar{
+    display: flex;
+    margin-top: 70px;
+    
+}
+.icon-parent1{
+
+margin: 30px 30px;
+margin-right: 30px;
+margin-top:70px ;
+}
+.icon-parent2{
+    margin: 30px 30px;
+    margin-right: 30px;
+    margin-top: 70px;
+}
+.icon-parent3{
+    margin: 30px 30px;
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-top: 70px;
+
+}
+.body1{
+    color: white;
+    margin-left: 70px;
+    margin-top: 45px;
+}
+.image-parent{
+    display: flex;
+    margin-top: 40px;
+}
+.image1{
+    margin-left: 50px;
+}
+.image2{
+    margin-right: 50px;
+}
+.sec-text{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.sec-text h1{
+    color: #30006C;
+}
+.sec-text p{
+    color: #30006C;
+}
+.footer{
+    background-image:url(image/Container\ \(27\).png);
+    height: 600px;
+    background-repeat:no-repeat;
+    background-size: 100% 600px;
+    margin-top: 20px;
+}
+.footer-text{
+    color: white;
+    background-color: transparent;
+    margin-left: 100px;
+    padding-top: 70px;
+}
+.footer-icon{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+.section-parent{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    color: #30006C;
+}
+#pagaraf{
+    margin-top: 10px;
+}
+.main-parent{
+    background-image: url(image/Container\ \(33\).png);
+    height: 700px;
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.main1{
+    margin-left: 150px;
+}
+.main2{
+    margin-right: 60px;
+    width: 700px;
+}
+.button1{
+    background-color: #FFA30C;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    width: 200px;
+    margin-top: 15px;
+    font-size: 20px;
+
+}
+.button3{
+    background-color: #FFA30C;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    width: 270px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#petro{
+    margin-top: 7px;
+}
+
+.spaan{
+    text-align: center;
+    color: #30006C;
+    margin-top: 15px;
+}
+.spaan i{
+    color: #FFA30C;
+}
+.section4{
+    background-color: #4B0088;
+    height: 300px;
+    margin-top: 15px;
+}
+
+.nav-parent{
+    display: flex;
+    color: white;
+    gap: 20px;
+    padding: 40px 50px;
+}
+.nav1{
+    width: 500px;
+}
+.nav2{
+    width: 500px;
+}
+.nav3{
+    width: 500px;
+}
+.nav1 h1{
+    margin-bottom: 10px;
+
+}
+.nav2 h1{
+    margin-bottom:10px ;
+
+}
+.nav3 h1{
+    margin-bottom: 10px;
+
+}
+.netro{
+    background-color:#38227B ;
+    height: 80px;
+}
+.netro1{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+.heroos{
+    background-color: #22036F;
+    height: 400px;
+}
+.center{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.last{
+    background-color: white;
+    color:black;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    width: 270px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+#textp{
+    margin-top: 20px;
+}
+.last img{
+    width: 25px;
+    height: 15px;
+    padding-left: 5px;
+}
+.last-text{
+    display: flex;
+    color: white;
+    gap: 150px;
+    margin-top: 50px;
+    justify-content: center;
+}
